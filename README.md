@@ -1,1 +1,0 @@
-# Media-app-qt-c-
